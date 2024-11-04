@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598672837516",
+    "project_id": "booktea-b81c4",
+    "storage_bucket": "booktea-b81c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598672837516:android:4e8bc57123fd4122e464a9",
+        "android_client_info": {
+          "package_name": "student.developer.jinhyeon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg9DJ8GrMXVNeymaoG5OSKg7GyyOzNoik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
